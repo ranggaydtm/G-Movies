@@ -1,0 +1,46 @@
+.bg {
+  height: 100vh;
+  background: url("../assets/images/bg/3.jpg");
+  background-size: cover;
+}
+
+.intro {
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px maroon;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/images/bg/2.jpg");
+  background-size: cover;
+}
+
+/* .movieWrapper {
+} */
+
+.movieImage {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.Images {
+  height: 600px;
+}
+
+.movies {
+  height: auto;
+  background: url("../assets/images/bg/1.jpg");
+  background-size: cover;
+}
